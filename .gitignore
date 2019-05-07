@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+
+/Episode 05 - units/.vs/Episode 05 - units
+/Episode 05 - units/Library
+/Episode 05 - units/Logs
+/Episode 05 - units/obj/Debug
+/Episode 05 - units/Packages
+/Episode 05 - units/Temp
