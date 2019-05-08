@@ -60,17 +60,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PathAndBuildAssets\BuildButton.cs" />
-    <Compile Include="Assets\PathAndBuildAssets\BuildingPlacement.cs" />
-    <Compile Include="Assets\PathAndBuildAssets\DynamicObstacle.cs" />
-    <Compile Include="Assets\PathAndBuildAssets\GroundSense.cs" />
-    <Compile Include="Assets\PathAndBuildAssets\Unit.cs" />
-    <Compile Include="Assets\PathAndBuildAssets\UnitManager.cs" />
+    <Compile Include="Assets\Scripts\BuildButton.cs" />
+    <Compile Include="Assets\Scripts\BuildingPlacement.cs" />
+    <Compile Include="Assets\Scripts\DynamicObstacle.cs" />
     <Compile Include="Assets\Scripts\Grid.cs" />
+    <Compile Include="Assets\Scripts\GroundSense.cs" />
     <Compile Include="Assets\Scripts\Heap.cs" />
     <Compile Include="Assets\Scripts\Node.cs" />
     <Compile Include="Assets\Scripts\Pathfinding.cs" />
     <Compile Include="Assets\Scripts\PathRequestManager.cs" />
+    <Compile Include="Assets\Scripts\Unit.cs" />
+    <Compile Include="Assets\Scripts\UnitManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/misaelzeferino/source/repos/MyPathFindTest/Episode 05 - units/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
